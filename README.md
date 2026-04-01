@@ -1,2 +1,9 @@
-# naive-bayes-disease-prediction
-Naive Bayes model for disease prediction using symptom data, with analysis of dataset leakage and probabilistic modeling limitations.
+# CSE150 Group Project
+
+Use a Bayesian Network to make an AI to predict disease with given symptoms.
+
+See our [team](docs/TEAM.md)
+
+See our [project proposal](docs/PROPOSAL.md)
+
+See our [milestone 4](docs/MILESTONE4.md)
